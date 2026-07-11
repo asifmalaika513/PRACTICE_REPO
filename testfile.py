@@ -1,5 +1,8 @@
-agee=20
-old=False
-a=Nane
-print(type(old))
-print(type(a))
+#arithmetic oprators
+a=5
+b=3
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
