@@ -1,8 +1,4 @@
-assigenment operators
+#assignment operators
 nam=10
-nam+=10
-print("nam:",nam) 20
-
-nam=10
-nam-=10
-print("nam:",nam) #0
+nam*=5
+print("nam:",nam) #50
