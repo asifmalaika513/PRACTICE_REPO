@@ -1,10 +1,8 @@
-#relational oprators
-a=50
-b=20
+assigenment operators
+nam=10
+nam+=10
+print("nam:",nam) 20
 
-print(a==b)False
-print(a!=b)True
-print(a>=b)True
-print(a>b)True
-print(a<=b)False
-print(a<b)False
+nam=10
+nam-=10
+print("nam:",nam) #0
