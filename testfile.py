@@ -1,5 +1,3 @@
-# logical operators
-a=50
-b=30
-print(not False)
-print(not(a>b)
+val1= True
+val2= True
+print("ans operators:", val1 and val2)
