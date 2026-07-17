@@ -1,4 +1,5 @@
-#assignment operators
-nam=10
-namL**=5
-print("nam:",nam) #1,00,000
+# logical operators
+a=50
+b=30
+print(not False)
+print(not(a>b)
