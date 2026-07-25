@@ -1,4 +1,6 @@
-val1= True
-val2= True
-print("AND operator:", val1 and val2)
-print("OR operator:", val1 or val2)
+#type conversion
+a = 2
+b = 4.25
+
+sum = a+b # 2.0 +4.25 => 6.25
+print(sum)
